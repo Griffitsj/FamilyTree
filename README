@@ -1,0 +1,9 @@
+FamilyTree - Family Tree HTML Generator
+Copyright (C) 2001 Steven Griffiths <steve@sgriff.com>
+
+For an example of how to use this perl module see the included file
+windsor.pl.  This script should produce an HTML version of the British Royal
+Family Tree.
+
+The perl module is licensed under the GNU GPL.  
+See the file COPYING for details

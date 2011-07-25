@@ -1,0 +1,8 @@
+
+*.html
+
+*.html.gz
+
+*.data
+.cvsignore
+CVS/
