@@ -1,0 +1,10 @@
+CHANGES
+COPYING
+FamilyTree.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+simple.pl
+test.pl
+windsor.pl
